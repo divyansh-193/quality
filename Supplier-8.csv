@@ -1,0 +1,7 @@
+Date,Shift,Inspector_Name,Part_No,Part_Name,Supplier,Invoice_No,Total_Check_Qty,Total_OK_Qty,Total_NOK_Qty,Proportion,Damage,Burr,Keyway_U_S,Rust_Mark,Line_Mark,MOP_Issue,Dent,Flash,ID_U_S,ID_O_S,Short_Fill,Contamination,Burn_Mark,Blowhole,Unwash,Missing_Holes,Black_colour,Pin_tight,Thread_Issue,Others
+2023-03-21,G,Basker,5053439,PIN-LOCKING,Supplier-8,590216943,1000,1000,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-03-26,G,Priya,5053439,PIN-LOCKING,Supplier-8,590216736,1000,1000,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-04-01,G,Basker,5053439,PIN-LOCKING,Supplier-8,590216943,835,794,41,0.05,32,3,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-04-05,G,Priya,5053439,PIN-LOCKING,Supplier-8,590216736,298,283,15,0.05,10,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-04-12,G,Basker,5053439,PIN-LOCKING,Supplier-8,590216943,841,804,37,0.04,22,5,8,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-04-17,G,Priya,5053439,PIN-LOCKING,Supplier-8,590216736,1454,1403,51,0.04,12,31,0,1,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
