@@ -1,0 +1,13 @@
+Date,Shift,Inspector_Name,Part_No,Part_Name,Supplier,Invoice_No,Total_Check_Qty,Total_OK_Qty,Total_NOK_Qty,Proportion,Damage,Burr,Keyway_U_S,Rust_Mark,Line_Mark,MOP_Issue,Dent,Flash,ID_U_S,ID_O_S,Short_Fill,Contamination,Burn_Mark,Blowhole,Unwash,Missing_Holes,Black_colour,Pin_tight,Thread_Issue,Others
+2023-03-15,G,Kumaran,5035835,RING CENTER,Supplier-1,90221000705,1606,1600,6,0.0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-03-16,G,kumaran,5035835,RING CENTER,Supplier-1,9.02E+11,1150,1150,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-03-17,G,Praveen,5035835,RING CENTER,Supplier-1,9.02E+11,800,786,14,0.02,0,0,0,0,0,0,8,0,0,0,6,0,0,0,0,0,0,0,0,0
+2023-03-18,G,basker,5035835,RING CENTER,Supplier-1,9.02E+11,400,397,3,0.01,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-03-28,G,Kumaran,5035835,RING CENTER,Supplier-1,90221000705,1249,1210,39,0.03,18,5,3,0,0,2,0,0,4,0,3,0,2,1,0,1,0,0,0,0
+2023-03-28,G,kumaran,5035835,RING CENTER,Supplier-1,9.02E+11,851,833,18,0.02,17,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-03-29,G,Praveen,5035835,RING CENTER,Supplier-1,9.02E+11,659,658,1,0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-03-30,G,basker,5035835,RING CENTER,Supplier-1,9.02E+11,235,228,7,0.03,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-04-07,G,Kumaran,5035835,RING CENTER,Supplier-1,90221000705,699,694,5,0.01,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-04-08,G,kumaran,5035835,RING CENTER,Supplier-1,9.02E+11,1481,1426,55,0.04,53,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-04-09,G,Praveen,5035835,RING CENTER,Supplier-1,9.02E+11,1407,1394,13,0.01,10,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-04-10,G,basker,5035835,RING CENTER,Supplier-1,9.02E+11,1446,1397,49,0.03,0,1,18,22,3,4,0,0,0,0,0,0,1,0,0,0,0,0,0,0

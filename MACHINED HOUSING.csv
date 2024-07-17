@@ -1,0 +1,4 @@
+Date,Shift,Inspector_Name,Part_No,Part_Name,Supplier,Invoice_No,Total_Check_Qty,Total_OK_Qty,Total_NOK_Qty,Proportion,Damage,Burr,Keyway_U_S,Rust_Mark,Line_Mark,MOP_Issue,Dent,Flash,ID_U_S,ID_O_S,Short_Fill,Contamination,Burn_Mark,Blowhole,Unwash,Missing_Holes,Black_colour,Pin_tight,Thread_Issue,Others
+2023-03-22,G,Basker,5059935,MACHINED HOUSING,Supplier-4,9.02E+11,66,64,2,0.03,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-04-01,G,Basker,5059935,MACHINED HOUSING,Supplier-4,9.02E+11,1829,1747,82,0.05,75,0,5,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-04-13,G,Basker,5059935,MACHINED HOUSING,Supplier-4,9.02E+11,986,955,31,0.03,21,6,1,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0

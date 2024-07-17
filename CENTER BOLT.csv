@@ -1,0 +1,7 @@
+,Date,Shift,Inspector_Name,Part_No,Part_Name,Supplier,Invoice_No,Total_Check_Qty,Total_OK_Qty,Total_NOK_Qty,Proportion,Damage,Burr,Keyway_U_S,Rust_Mark,Line_Mark,MOP_Issue,Dent,Flash,ID_U_S,ID_O_S,Short_Fill,Contamination,Burn_Mark,Blowhole,Unwash,Missing_Holes,Black_colour,Pin_tight,Thread_Issue,Others
+0,2023-03-18,G,Nallappan,5067454,CENTER BOLT,Supplier-3,23PPM011001,1350,1211,139,0.1,139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,2023-03-20,G,Nallappan,5067454,CENTER BOLT,Supplier-3,5067454,1862,1841,21,0.01,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,2023-03-30,G,Nallappan,5067454,CENTER BOLT,Supplier-3,23PPM011001,351,340,11,0.03,4,5,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0
+3,2023-03-31,G,Nallappan,5067454,CENTER BOLT,Supplier-3,5067454,1271,1228,43,0.03,19,15,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,2023-04-10,G,Nallappan,5067454,CENTER BOLT,Supplier-3,23PPM011001,1780,1709,71,0.04,70,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,2023-04-11,G,Nallappan,5067454,CENTER BOLT,Supplier-3,5067454,1518,1471,47,0.03,34,11,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0

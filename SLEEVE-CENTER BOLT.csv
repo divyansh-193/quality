@@ -1,0 +1,7 @@
+Date,Shift,Inspector_Name,Part_No,Part_Name,Supplier,Invoice_No,Total_Check_Qty,Total_OK_Qty,Total_NOK_Qty,Proportion,Damage,Burr,Keyway_U_S,Rust_Mark,Line_Mark,MOP_Issue,Dent,Flash,ID_U_S,ID_O_S,Short_Fill,Contamination,Burn_Mark,Blowhole,Unwash,Missing_Holes,Black_colour,Pin_tight,Thread_Issue,Others
+2023-03-23,G,Basker,5070471,SLEEVE-CENTER BOLT,Supplier-5,202211291,1000,987,13,0.01,3,5,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-03-25,G,Nallappan,5070471,SLEEVE-CENTER BOLT,Supplier-5,2202211304,500,498,2,0.0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-04-02,G,Basker,5070471,SLEEVE-CENTER BOLT,Supplier-5,202211291,1823,1787,36,0.02,12,14,4,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-04-04,G,Nallappan,5070471,SLEEVE-CENTER BOLT,Supplier-5,2202211304,1235,1231,4,0.0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-04-14,G,Basker,5070471,SLEEVE-CENTER BOLT,Supplier-5,202211291,1437,1430,7,0.01,3,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-04-16,G,Nallappan,5070471,SLEEVE-CENTER BOLT,Supplier-5,2202211304,1645,1601,44,0.03,5,27,0,6,2,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0

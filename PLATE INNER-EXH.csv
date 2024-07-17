@@ -1,0 +1,4 @@
+Date,Shift,Inspector_Name,Part_No,Part_Name,Supplier,Invoice_No,Total_Check_Qty,Total_OK_Qty,Total_NOK_Qty,Proportion,Damage,Burr,Keyway_U_S,Rust_Mark,Line_Mark,MOP_Issue,Dent,Flash,ID_U_S,ID_O_S,Short_Fill,Contamination,Burn_Mark,Blowhole,Unwash,Missing_Holes,Black_colour,Pin_tight,Thread_Issue,Others
+2023-03-25,G,Basker,5053775,PLATE INNER-EXH,Supplier-2,4100159296,812,800,12,0.01,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-04-04,G,Basker,5053775,PLATE INNER-EXH,Supplier-2,4100159296,1135,1109,26,0.02,23,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-04-16,G,Basker,5053775,PLATE INNER-EXH,Supplier-2,4100159296,459,456,3,0.01,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

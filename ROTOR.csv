@@ -1,0 +1,13 @@
+Date,Shift,Inspector_Name,Part_No,Part_Name,Supplier,Invoice_No,Total_Check_Qty,Total_OK_Qty,Total_NOK_Qty,Proportion,Damage,Burr,Keyway_U_S,Rust_Mark,Line_Mark,MOP_Issue,Dent,Flash,ID_U_S,ID_O_S,Short_Fill,Contamination,Burn_Mark,Blowhole,Unwash,Missing_Holes,Black_colour,Pin_tight,Thread_Issue,Others
+2023-03-15,G,Venkatesh,5050501,ROTOR,Supplier-1,9.02E+11,288,288,0,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-03-18,G,kumaran,5050501,ROTOR,Supplier-1,9.02E+11,507,504,3,0.01,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-03-23,G,Nallappan,5050501,ROTOR,Supplier-1,9.02E+11,576,560,16,0.03,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-03-26,G,Sujith,5050501,ROTOR,Supplier-1,9.02E+11,259,256,3,0.01,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-03-28,G,Venkatesh,5050501,ROTOR,Supplier-1,9.02E+11,895,880,15,0.02,2,0,6,0,6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-03-30,G,kumaran,5050501,ROTOR,Supplier-1,9.02E+11,615,595,20,0.03,17,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-04-02,G,Nallappan,5050501,ROTOR,Supplier-1,9.02E+11,899,884,15,0.02,7,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-04-05,G,Sujith,5050501,ROTOR,Supplier-1,9.02E+11,903,899,4,0.0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-04-07,G,Venkatesh,5050501,ROTOR,Supplier-1,9.02E+11,934,908,26,0.03,18,7,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-04-10,G,kumaran,5050501,ROTOR,Supplier-1,9.02E+11,1200,1186,14,0.01,1,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-04-14,G,Nallappan,5050501,ROTOR,Supplier-1,9.02E+11,798,794,4,0.01,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2023-04-17,G,Sujith,5050501,ROTOR,Supplier-1,9.02E+11,299,287,12,0.04,0,5,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

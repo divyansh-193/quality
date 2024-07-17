@@ -1,0 +1,4 @@
+,Date,Shift,Inspector_Name,Part_No,Part_Name,Supplier,Invoice_No,Total_Check_Qty,Total_OK_Qty,Total_NOK_Qty,Proportion,Damage,Burr,Keyway_U_S,Rust_Mark,Line_Mark,MOP_Issue,Dent,Flash,ID_U_S,ID_O_S,Short_Fill,Contamination,Burn_Mark,Blowhole,Unwash,Missing_Holes,Black_colour,Pin_tight,Thread_Issue,Others
+15,2023-03-26,G,Sujith,5058765,HOUSING,Supplier-4,1014931988,96,93,3,0.03,0,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,2023-04-05,G,Sujith,5058765,HOUSING,Supplier-4,1014931988,879,835,44,0.05,34,4,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2023-04-17,G,Sujith,5058765,HOUSING,Supplier-4,1014931988,1257,1253,4,0.0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
